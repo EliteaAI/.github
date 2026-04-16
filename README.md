@@ -47,7 +47,7 @@ Extend what your agents can do. Connect to external services, create custom tool
 ### 🔍 Indexing
 Turn your documents, repositories, and knowledge sources into searchable indexes. Give agents grounded, factual context using semantic search — so they work with your data, not just their training.
 
-### 🌐 MCPs (Model Context Protocol)
+### 🌐 MCPs
 Connect ELITEA to local or remote MCP servers to bring additional tools and real-time context into your agents and pipelines. Supports both on-machine and hosted MCP integrations.
 
 ### 🤝 Community
